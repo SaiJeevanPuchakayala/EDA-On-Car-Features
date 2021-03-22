@@ -7,10 +7,10 @@
 `# importing library for analyzing data
 import pandas as pd
 
-# importing library for numerical computations
+importing library for numerical computations
 import numpy as np
 
-# importing libraries for visualisation
+importing libraries for visualisation
 import seaborn as sns
 import matplotlib.pyplot as plt
 %matplotlib inline`
