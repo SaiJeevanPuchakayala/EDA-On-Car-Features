@@ -4,13 +4,13 @@
 * I have implemented EDA on a Dataset(I have used Car Features Dataset from Kaggle)
 
 #### Required Libraries
-* importing library for analyzing data
+* Library for analyzing data
   * `import pandas as pd`
 
-* importing library for numerical computations
+* Library for numerical computations
   * `import numpy as np`
 
-* importing libraries for visualisation
+* Library for visualisation
   * `import seaborn as sns`
   * `import matplotlib.pyplot as plt`
   * `%matplotlib inline`
